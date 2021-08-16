@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharkgurl
-- 👀 I’m interested in Python and Machine Learning!
-- 🌱 I’m currently a RSMAS Marine Conservation Graduate Student and taking Python lessons at Udemy.
+- 👀 I’m interested in Python, Machine Learning, and Data Analytics!
+- 🌱 RSMAS MPS in Marine Conservation and Boston University MBA in Finance.
 - 💞️ I’m looking to collaborate on ocean and environmental sciences projects :-)
 
 
