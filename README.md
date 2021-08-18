@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharkgurl
 - 👀 I’m interested in Python, Machine Learning, and Data Analytics!
 - 🌱 RSMAS MPS in Marine Conservation and Boston University MBA in Finance.
-- 💞️ I’m looking to collaborate on ocean and environmental sciences projects :-)
+- 💞️ I’m looking to collaborate and take my skills to the next level!
 
 
 <!---
