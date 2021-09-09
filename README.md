@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sharkgurl
-- 👀 I’m interested in Python, Machine Learning, and Data Analytics!
+-  My super powers are Data Analytics and Data Visualization!
+- 👀 I’m interested in Python and Machine Learning!
 
 
 
