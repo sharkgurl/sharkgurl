@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sharkgurl
--  My super powers are Data Analytics and Data Visualization!
-- 👀 I am pursuing a career change to Python Development. 
+- I love Data Analytics, Data Visualization, Python, and Sharks!
 - I have a multidisciplinary background and proven track record in Data Analytics, Modeling, and Project Management. 
 - I am decisive, detail & action oriented with a Green Belt Six Sigma Methodology Certification, and effective written and verbal communication skills.
 
