@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharkgurl
-- I love Data Analytics, Data Visualization, Python, and Sharks!
+- I love Data Analytics, Data Visualization, Python, Machine Learning, and Sharks!
 - I have a multidisciplinary background and proven track record in Data Analytics, Modeling, and Project Management. 
-- IBM Data Science Professional Certificate
+- I have the IBM Data Science Professional Certificate.
 - I am decisive, detail & action oriented with a Green Belt Six Sigma Methodology Certification, and effective written and verbal communication skills.
 
 <!---
