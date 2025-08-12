@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharkgurl
-- I love Machine Learning, Data Analytics, Data Science, Data Visualization, and Sharks!
+- I love Machine Learning, Data Analytics, Data Science, Data Visualization, my ADV Motorcycle and Sharks!
 - I am passionate about creating solutions that add value in solving complex problems.
 - I have a multidisciplinary background and proven track record in Data Analytics, Modeling, and Project Management.
 - I am Microsoft AI900 Certified.
