@@ -4,6 +4,7 @@
 - I have a multidisciplinary background and proven track record in Data Analytics, Data Science, and Project Management.
 - I am Microsoft AI900 Certified.
 - I also have the IBM Data Science Professional Certificate, the Airflow Fundamentals Certification, and the Green Belt Six Sigma Methodology Certification.
+- I hold an MBA in Finance, an MPS in Marine Ecosystems and Society (MES), and I am a MS-AI candidate.
 - I am decisive, detail & action oriented with effective written and verbal communication skills.
 
 <!---
